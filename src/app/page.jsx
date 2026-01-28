@@ -26,7 +26,7 @@ export default function Home() {
       </h1>
 
       <p className="text-lg sm:text-xl md:text-2xl mb-8 text-center max-w-xl">
-        We're working on a new look for our website. Stay tuned — something
+        We are working on a new look for our website. Stay tuned — something
         great is coming soon!
       </p>
 
